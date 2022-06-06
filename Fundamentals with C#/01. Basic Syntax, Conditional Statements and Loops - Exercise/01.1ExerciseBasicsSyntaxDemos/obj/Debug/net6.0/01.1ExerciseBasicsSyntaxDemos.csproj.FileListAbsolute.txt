@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\01.1ExerciseBasicsSyntaxDemos\bin\Debug\net6.0\01.1ExerciseBasicsSyntaxDemos.exe
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\01.1ExerciseBasicsSyntaxDemos\bin\Debug\net6.0\01.1ExerciseBasicsSyntaxDemos.deps.json
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\01.1ExerciseBasicsSyntaxDemos\bin\Debug\net6.0\01.1ExerciseBasicsSyntaxDemos.runtimeconfig.json
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\01.1ExerciseBasicsSyntaxDemos\bin\Debug\net6.0\01.1ExerciseBasicsSyntaxDemos.dll
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\01.1ExerciseBasicsSyntaxDemos\bin\Debug\net6.0\ref\01.1ExerciseBasicsSyntaxDemos.dll
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\01.1ExerciseBasicsSyntaxDemos\bin\Debug\net6.0\01.1ExerciseBasicsSyntaxDemos.pdb
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\01.1ExerciseBasicsSyntaxDemos\obj\Debug\net6.0\01.1ExerciseBasicsSyntaxDemos.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\01.1ExerciseBasicsSyntaxDemos\obj\Debug\net6.0\01.1ExerciseBasicsSyntaxDemos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\01.1ExerciseBasicsSyntaxDemos\obj\Debug\net6.0\01.1ExerciseBasicsSyntaxDemos.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\01.1ExerciseBasicsSyntaxDemos\obj\Debug\net6.0\01.1ExerciseBasicsSyntaxDemos.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\01.1ExerciseBasicsSyntaxDemos\obj\Debug\net6.0\01.1ExerciseBasicsSyntaxDemos.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\01.1ExerciseBasicsSyntaxDemos\obj\Debug\net6.0\01.1ExerciseBasicsSyntaxDemos.dll
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\01.1ExerciseBasicsSyntaxDemos\obj\Debug\net6.0\ref\01.1ExerciseBasicsSyntaxDemos.dll
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\01.1ExerciseBasicsSyntaxDemos\obj\Debug\net6.0\01.1ExerciseBasicsSyntaxDemos.pdb
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\01.1ExerciseBasicsSyntaxDemos\obj\Debug\net6.0\01.1ExerciseBasicsSyntaxDemos.genruntimeconfig.cache
