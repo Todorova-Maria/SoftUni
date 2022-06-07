@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\05Login\obj\Debug\net6.0\05Login.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\05Login\obj\Debug\net6.0\05Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\05Login\obj\Debug\net6.0\05Login.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\05Login\obj\Debug\net6.0\05Login.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\05Login\obj\Debug\net6.0\05Login.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\05Login\bin\Debug\net6.0\05Login.exe
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\05Login\bin\Debug\net6.0\05Login.deps.json
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\05Login\bin\Debug\net6.0\05Login.runtimeconfig.json
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\05Login\bin\Debug\net6.0\05Login.dll
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\05Login\bin\Debug\net6.0\ref\05Login.dll
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\05Login\bin\Debug\net6.0\05Login.pdb
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\05Login\obj\Debug\net6.0\05Login.dll
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\05Login\obj\Debug\net6.0\ref\05Login.dll
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\05Login\obj\Debug\net6.0\05Login.pdb
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\05Login\obj\Debug\net6.0\05Login.genruntimeconfig.cache

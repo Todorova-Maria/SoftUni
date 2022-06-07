@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\07VendingMachine\bin\Debug\net6.0\07VendingMachine.exe
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\07VendingMachine\bin\Debug\net6.0\07VendingMachine.deps.json
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\07VendingMachine\bin\Debug\net6.0\07VendingMachine.runtimeconfig.json
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\07VendingMachine\bin\Debug\net6.0\07VendingMachine.dll
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\07VendingMachine\bin\Debug\net6.0\ref\07VendingMachine.dll
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\07VendingMachine\bin\Debug\net6.0\07VendingMachine.pdb
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\07VendingMachine\obj\Debug\net6.0\07VendingMachine.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\07VendingMachine\obj\Debug\net6.0\07VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\07VendingMachine\obj\Debug\net6.0\07VendingMachine.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\07VendingMachine\obj\Debug\net6.0\07VendingMachine.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\07VendingMachine\obj\Debug\net6.0\07VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\07VendingMachine\obj\Debug\net6.0\07VendingMachine.dll
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\07VendingMachine\obj\Debug\net6.0\ref\07VendingMachine.dll
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\07VendingMachine\obj\Debug\net6.0\07VendingMachine.pdb
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\07VendingMachine\obj\Debug\net6.0\07VendingMachine.genruntimeconfig.cache
