@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\10RageExpenses\bin\Debug\net6.0\10RageExpenses.exe
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\10RageExpenses\bin\Debug\net6.0\10RageExpenses.deps.json
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\10RageExpenses\bin\Debug\net6.0\10RageExpenses.runtimeconfig.json
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\10RageExpenses\bin\Debug\net6.0\10RageExpenses.dll
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\10RageExpenses\bin\Debug\net6.0\ref\10RageExpenses.dll
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\10RageExpenses\bin\Debug\net6.0\10RageExpenses.pdb
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\10RageExpenses\obj\Debug\net6.0\10RageExpenses.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\10RageExpenses\obj\Debug\net6.0\10RageExpenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\10RageExpenses\obj\Debug\net6.0\10RageExpenses.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\10RageExpenses\obj\Debug\net6.0\10RageExpenses.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\10RageExpenses\obj\Debug\net6.0\10RageExpenses.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\10RageExpenses\obj\Debug\net6.0\10RageExpenses.dll
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\10RageExpenses\obj\Debug\net6.0\ref\10RageExpenses.dll
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\10RageExpenses\obj\Debug\net6.0\10RageExpenses.pdb
+C:\Users\Ivan\source\repos\01.1ExerciseBasicsSyntaxDemos\10RageExpenses\obj\Debug\net6.0\10RageExpenses.genruntimeconfig.cache
