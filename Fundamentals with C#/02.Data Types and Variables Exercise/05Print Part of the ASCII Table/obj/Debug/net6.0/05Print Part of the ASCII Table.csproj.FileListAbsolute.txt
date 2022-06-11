@@ -1,0 +1,14 @@
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\05Print Part of the ASCII Table\bin\Debug\net6.0\05Print Part of the ASCII Table.exe
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\05Print Part of the ASCII Table\bin\Debug\net6.0\05Print Part of the ASCII Table.deps.json
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\05Print Part of the ASCII Table\bin\Debug\net6.0\05Print Part of the ASCII Table.runtimeconfig.json
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\05Print Part of the ASCII Table\bin\Debug\net6.0\05Print Part of the ASCII Table.dll
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\05Print Part of the ASCII Table\bin\Debug\net6.0\ref\05Print Part of the ASCII Table.dll
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\05Print Part of the ASCII Table\bin\Debug\net6.0\05Print Part of the ASCII Table.pdb
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\05Print Part of the ASCII Table\obj\Debug\net6.0\05Print Part of the ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\05Print Part of the ASCII Table\obj\Debug\net6.0\05Print Part of the ASCII Table.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\05Print Part of the ASCII Table\obj\Debug\net6.0\05Print Part of the ASCII Table.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\05Print Part of the ASCII Table\obj\Debug\net6.0\05Print Part of the ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\05Print Part of the ASCII Table\obj\Debug\net6.0\05Print Part of the ASCII Table.dll
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\05Print Part of the ASCII Table\obj\Debug\net6.0\ref\05Print Part of the ASCII Table.dll
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\05Print Part of the ASCII Table\obj\Debug\net6.0\05Print Part of the ASCII Table.pdb
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\05Print Part of the ASCII Table\obj\Debug\net6.0\05Print Part of the ASCII Table.genruntimeconfig.cache
