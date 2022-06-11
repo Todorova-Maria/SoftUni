@@ -1,0 +1,14 @@
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\02Sum Digits\bin\Debug\net6.0\02Sum Digits.exe
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\02Sum Digits\bin\Debug\net6.0\02Sum Digits.deps.json
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\02Sum Digits\bin\Debug\net6.0\02Sum Digits.runtimeconfig.json
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\02Sum Digits\bin\Debug\net6.0\02Sum Digits.dll
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\02Sum Digits\bin\Debug\net6.0\ref\02Sum Digits.dll
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\02Sum Digits\bin\Debug\net6.0\02Sum Digits.pdb
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\02Sum Digits\obj\Debug\net6.0\02Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\02Sum Digits\obj\Debug\net6.0\02Sum Digits.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\02Sum Digits\obj\Debug\net6.0\02Sum Digits.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\02Sum Digits\obj\Debug\net6.0\02Sum Digits.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\02Sum Digits\obj\Debug\net6.0\02Sum Digits.dll
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\02Sum Digits\obj\Debug\net6.0\ref\02Sum Digits.dll
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\02Sum Digits\obj\Debug\net6.0\02Sum Digits.pdb
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\02Sum Digits\obj\Debug\net6.0\02Sum Digits.genruntimeconfig.cache
