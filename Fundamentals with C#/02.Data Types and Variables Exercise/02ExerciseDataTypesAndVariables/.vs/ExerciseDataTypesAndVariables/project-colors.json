@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8adf29f5-1d44-42c5-ae6e-e82ce4f042e5": {
+      "ProjectGuid": "8adf29f5-1d44-42c5-ae6e-e82ce4f042e5",
+      "DisplayName": "01.Integer Operations",
+      "ColorIndex": 0
+    },
+    "9abaa91e-a60b-47be-9843-09b6c557f129": {
+      "ProjectGuid": "9abaa91e-a60b-47be-9843-09b6c557f129",
+      "DisplayName": "02Sum Digits",
+      "ColorIndex": 1
+    },
+    "0324bfac-17c2-43a6-baf2-0fa79cfb06c9": {
+      "ProjectGuid": "0324bfac-17c2-43a6-baf2-0fa79cfb06c9",
+      "DisplayName": "03.Elevator",
+      "ColorIndex": 2
+    },
+    "21932062-5c6e-4611-b218-492cf3751ed1": {
+      "ProjectGuid": "21932062-5c6e-4611-b218-492cf3751ed1",
+      "DisplayName": "04.Sum of Chars",
+      "ColorIndex": 3
+    },
+    "540c06ab-928e-4016-9e91-b9a1e0b01187": {
+      "ProjectGuid": "540c06ab-928e-4016-9e91-b9a1e0b01187",
+      "DisplayName": "05Print Part of the ASCII Table",
+      "ColorIndex": 4
+    },
+    "9cb73ecc-df3c-4d90-9dc0-e1e447731ec5": {
+      "ProjectGuid": "9cb73ecc-df3c-4d90-9dc0-e1e447731ec5",
+      "DisplayName": "06.Triples of Latin Letters",
+      "ColorIndex": 5
+    },
+    "15db5bc7-a85b-427d-bd2c-9b6bdcadb65d": {
+      "ProjectGuid": "15db5bc7-a85b-427d-bd2c-9b6bdcadb65d",
+      "DisplayName": "07Water Overflow",
+      "ColorIndex": 6
+    },
+    "6338a805-39d6-4bb3-b437-655182f35abe": {
+      "ProjectGuid": "6338a805-39d6-4bb3-b437-655182f35abe",
+      "DisplayName": "08 Beer Kegs",
+      "ColorIndex": 7
+    },
+    "52b54306-7a49-427c-96a7-4cd48aa3ee15": {
+      "ProjectGuid": "52b54306-7a49-427c-96a7-4cd48aa3ee15",
+      "DisplayName": "09Spice Must Flow",
+      "ColorIndex": 8
+    },
+    "be89e5fe-8432-4294-b15c-563fa67a47cc": {
+      "ProjectGuid": "be89e5fe-8432-4294-b15c-563fa67a47cc",
+      "DisplayName": "10Pokemon",
+      "ColorIndex": 9
+    },
+    "07e57041-d794-4d18-83dd-d13cb18a9e44": {
+      "ProjectGuid": "07e57041-d794-4d18-83dd-d13cb18a9e44",
+      "DisplayName": "11.Snowballs",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}
