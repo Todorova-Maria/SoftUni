@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\07Water Overflow\bin\Debug\net6.0\07Water Overflow.exe
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\07Water Overflow\bin\Debug\net6.0\07Water Overflow.deps.json
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\07Water Overflow\bin\Debug\net6.0\07Water Overflow.runtimeconfig.json
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\07Water Overflow\bin\Debug\net6.0\07Water Overflow.dll
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\07Water Overflow\bin\Debug\net6.0\ref\07Water Overflow.dll
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\07Water Overflow\bin\Debug\net6.0\07Water Overflow.pdb
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\07Water Overflow\obj\Debug\net6.0\07Water Overflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\07Water Overflow\obj\Debug\net6.0\07Water Overflow.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\07Water Overflow\obj\Debug\net6.0\07Water Overflow.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\07Water Overflow\obj\Debug\net6.0\07Water Overflow.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\07Water Overflow\obj\Debug\net6.0\07Water Overflow.dll
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\07Water Overflow\obj\Debug\net6.0\ref\07Water Overflow.dll
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\07Water Overflow\obj\Debug\net6.0\07Water Overflow.pdb
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\07Water Overflow\obj\Debug\net6.0\07Water Overflow.genruntimeconfig.cache
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\07Water Overflow\obj\Debug\net6.0\07Water Overflow.csproj.AssemblyReference.cache
