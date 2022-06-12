@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\10Pokemon\bin\Debug\net6.0\10Pokemon.exe
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\10Pokemon\bin\Debug\net6.0\10Pokemon.deps.json
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\10Pokemon\bin\Debug\net6.0\10Pokemon.runtimeconfig.json
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\10Pokemon\bin\Debug\net6.0\10Pokemon.dll
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\10Pokemon\bin\Debug\net6.0\ref\10Pokemon.dll
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\10Pokemon\bin\Debug\net6.0\10Pokemon.pdb
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\10Pokemon\obj\Debug\net6.0\10Pokemon.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\10Pokemon\obj\Debug\net6.0\10Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\10Pokemon\obj\Debug\net6.0\10Pokemon.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\10Pokemon\obj\Debug\net6.0\10Pokemon.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\10Pokemon\obj\Debug\net6.0\10Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\10Pokemon\obj\Debug\net6.0\10Pokemon.dll
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\10Pokemon\obj\Debug\net6.0\ref\10Pokemon.dll
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\10Pokemon\obj\Debug\net6.0\10Pokemon.pdb
+C:\Users\Ivan\source\repos\02ExerciseDataTypesAndVariables\10Pokemon\obj\Debug\net6.0\10Pokemon.genruntimeconfig.cache
