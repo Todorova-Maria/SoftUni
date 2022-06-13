@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\03.ExercisesArrays\03.ExercisesArrays\bin\Debug\net6.0\01.ExercisesArrays.exe
+C:\Users\Ivan\source\repos\03.ExercisesArrays\03.ExercisesArrays\bin\Debug\net6.0\01.ExercisesArrays.deps.json
+C:\Users\Ivan\source\repos\03.ExercisesArrays\03.ExercisesArrays\bin\Debug\net6.0\01.ExercisesArrays.runtimeconfig.json
+C:\Users\Ivan\source\repos\03.ExercisesArrays\03.ExercisesArrays\bin\Debug\net6.0\01.ExercisesArrays.dll
+C:\Users\Ivan\source\repos\03.ExercisesArrays\03.ExercisesArrays\bin\Debug\net6.0\ref\01.ExercisesArrays.dll
+C:\Users\Ivan\source\repos\03.ExercisesArrays\03.ExercisesArrays\bin\Debug\net6.0\01.ExercisesArrays.pdb
+C:\Users\Ivan\source\repos\03.ExercisesArrays\03.ExercisesArrays\obj\Debug\net6.0\01.ExercisesArrays.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\03.ExercisesArrays\03.ExercisesArrays\obj\Debug\net6.0\01.ExercisesArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\03.ExercisesArrays\03.ExercisesArrays\obj\Debug\net6.0\01.ExercisesArrays.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\03.ExercisesArrays\03.ExercisesArrays\obj\Debug\net6.0\01.ExercisesArrays.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\03.ExercisesArrays\03.ExercisesArrays\obj\Debug\net6.0\01.ExercisesArrays.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\03.ExercisesArrays\03.ExercisesArrays\obj\Debug\net6.0\01.ExercisesArrays.dll
+C:\Users\Ivan\source\repos\03.ExercisesArrays\03.ExercisesArrays\obj\Debug\net6.0\ref\01.ExercisesArrays.dll
+C:\Users\Ivan\source\repos\03.ExercisesArrays\03.ExercisesArrays\obj\Debug\net6.0\01.ExercisesArrays.pdb
+C:\Users\Ivan\source\repos\03.ExercisesArrays\03.ExercisesArrays\obj\Debug\net6.0\01.ExercisesArrays.genruntimeconfig.cache
