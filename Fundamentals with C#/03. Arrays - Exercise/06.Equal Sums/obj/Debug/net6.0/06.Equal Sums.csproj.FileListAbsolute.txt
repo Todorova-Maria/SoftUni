@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\03.ExercisesArrays\06.Equal Sums\bin\Debug\net6.0\06.Equal Sums.exe
+C:\Users\Ivan\source\repos\03.ExercisesArrays\06.Equal Sums\bin\Debug\net6.0\06.Equal Sums.deps.json
+C:\Users\Ivan\source\repos\03.ExercisesArrays\06.Equal Sums\bin\Debug\net6.0\06.Equal Sums.runtimeconfig.json
+C:\Users\Ivan\source\repos\03.ExercisesArrays\06.Equal Sums\bin\Debug\net6.0\06.Equal Sums.dll
+C:\Users\Ivan\source\repos\03.ExercisesArrays\06.Equal Sums\bin\Debug\net6.0\ref\06.Equal Sums.dll
+C:\Users\Ivan\source\repos\03.ExercisesArrays\06.Equal Sums\bin\Debug\net6.0\06.Equal Sums.pdb
+C:\Users\Ivan\source\repos\03.ExercisesArrays\06.Equal Sums\obj\Debug\net6.0\06.Equal Sums.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\03.ExercisesArrays\06.Equal Sums\obj\Debug\net6.0\06.Equal Sums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\03.ExercisesArrays\06.Equal Sums\obj\Debug\net6.0\06.Equal Sums.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\03.ExercisesArrays\06.Equal Sums\obj\Debug\net6.0\06.Equal Sums.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\03.ExercisesArrays\06.Equal Sums\obj\Debug\net6.0\06.Equal Sums.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\03.ExercisesArrays\06.Equal Sums\obj\Debug\net6.0\06.Equal Sums.dll
+C:\Users\Ivan\source\repos\03.ExercisesArrays\06.Equal Sums\obj\Debug\net6.0\ref\06.Equal Sums.dll
+C:\Users\Ivan\source\repos\03.ExercisesArrays\06.Equal Sums\obj\Debug\net6.0\06.Equal Sums.pdb
+C:\Users\Ivan\source\repos\03.ExercisesArrays\06.Equal Sums\obj\Debug\net6.0\06.Equal Sums.genruntimeconfig.cache
