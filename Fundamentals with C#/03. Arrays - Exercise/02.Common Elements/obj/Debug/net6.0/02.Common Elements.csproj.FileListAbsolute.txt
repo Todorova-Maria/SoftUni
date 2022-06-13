@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\03.ExercisesArrays\02.Common Elements\bin\Debug\net6.0\02.Common Elements.exe
+C:\Users\Ivan\source\repos\03.ExercisesArrays\02.Common Elements\bin\Debug\net6.0\02.Common Elements.deps.json
+C:\Users\Ivan\source\repos\03.ExercisesArrays\02.Common Elements\bin\Debug\net6.0\02.Common Elements.runtimeconfig.json
+C:\Users\Ivan\source\repos\03.ExercisesArrays\02.Common Elements\bin\Debug\net6.0\02.Common Elements.dll
+C:\Users\Ivan\source\repos\03.ExercisesArrays\02.Common Elements\bin\Debug\net6.0\ref\02.Common Elements.dll
+C:\Users\Ivan\source\repos\03.ExercisesArrays\02.Common Elements\bin\Debug\net6.0\02.Common Elements.pdb
+C:\Users\Ivan\source\repos\03.ExercisesArrays\02.Common Elements\obj\Debug\net6.0\02.Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\03.ExercisesArrays\02.Common Elements\obj\Debug\net6.0\02.Common Elements.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\03.ExercisesArrays\02.Common Elements\obj\Debug\net6.0\02.Common Elements.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\03.ExercisesArrays\02.Common Elements\obj\Debug\net6.0\02.Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\03.ExercisesArrays\02.Common Elements\obj\Debug\net6.0\02.Common Elements.dll
+C:\Users\Ivan\source\repos\03.ExercisesArrays\02.Common Elements\obj\Debug\net6.0\ref\02.Common Elements.dll
+C:\Users\Ivan\source\repos\03.ExercisesArrays\02.Common Elements\obj\Debug\net6.0\02.Common Elements.pdb
+C:\Users\Ivan\source\repos\03.ExercisesArrays\02.Common Elements\obj\Debug\net6.0\02.Common Elements.genruntimeconfig.cache
+C:\Users\Ivan\source\repos\03.ExercisesArrays\02.Common Elements\obj\Debug\net6.0\02.Common Elements.csproj.AssemblyReference.cache
