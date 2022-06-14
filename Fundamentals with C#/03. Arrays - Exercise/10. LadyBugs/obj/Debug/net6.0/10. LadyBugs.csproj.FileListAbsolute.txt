@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\03.ExercisesArrays\10. LadyBugs\bin\Debug\net6.0\10. LadyBugs.exe
+C:\Users\Ivan\source\repos\03.ExercisesArrays\10. LadyBugs\bin\Debug\net6.0\10. LadyBugs.deps.json
+C:\Users\Ivan\source\repos\03.ExercisesArrays\10. LadyBugs\bin\Debug\net6.0\10. LadyBugs.runtimeconfig.json
+C:\Users\Ivan\source\repos\03.ExercisesArrays\10. LadyBugs\bin\Debug\net6.0\10. LadyBugs.dll
+C:\Users\Ivan\source\repos\03.ExercisesArrays\10. LadyBugs\bin\Debug\net6.0\ref\10. LadyBugs.dll
+C:\Users\Ivan\source\repos\03.ExercisesArrays\10. LadyBugs\bin\Debug\net6.0\10. LadyBugs.pdb
+C:\Users\Ivan\source\repos\03.ExercisesArrays\10. LadyBugs\obj\Debug\net6.0\10. LadyBugs.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\03.ExercisesArrays\10. LadyBugs\obj\Debug\net6.0\10. LadyBugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\03.ExercisesArrays\10. LadyBugs\obj\Debug\net6.0\10. LadyBugs.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\03.ExercisesArrays\10. LadyBugs\obj\Debug\net6.0\10. LadyBugs.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\03.ExercisesArrays\10. LadyBugs\obj\Debug\net6.0\10. LadyBugs.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\03.ExercisesArrays\10. LadyBugs\obj\Debug\net6.0\10. LadyBugs.dll
+C:\Users\Ivan\source\repos\03.ExercisesArrays\10. LadyBugs\obj\Debug\net6.0\ref\10. LadyBugs.dll
+C:\Users\Ivan\source\repos\03.ExercisesArrays\10. LadyBugs\obj\Debug\net6.0\10. LadyBugs.pdb
+C:\Users\Ivan\source\repos\03.ExercisesArrays\10. LadyBugs\obj\Debug\net6.0\10. LadyBugs.genruntimeconfig.cache
