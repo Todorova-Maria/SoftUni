@@ -1,0 +1,14 @@
+C:\Users\Ivan\source\repos\03.ExercisesArrays\08. Magic Sum\bin\Debug\net6.0\08. Magic Sum.exe
+C:\Users\Ivan\source\repos\03.ExercisesArrays\08. Magic Sum\bin\Debug\net6.0\08. Magic Sum.deps.json
+C:\Users\Ivan\source\repos\03.ExercisesArrays\08. Magic Sum\bin\Debug\net6.0\08. Magic Sum.runtimeconfig.json
+C:\Users\Ivan\source\repos\03.ExercisesArrays\08. Magic Sum\bin\Debug\net6.0\08. Magic Sum.dll
+C:\Users\Ivan\source\repos\03.ExercisesArrays\08. Magic Sum\bin\Debug\net6.0\ref\08. Magic Sum.dll
+C:\Users\Ivan\source\repos\03.ExercisesArrays\08. Magic Sum\bin\Debug\net6.0\08. Magic Sum.pdb
+C:\Users\Ivan\source\repos\03.ExercisesArrays\08. Magic Sum\obj\Debug\net6.0\08. Magic Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\03.ExercisesArrays\08. Magic Sum\obj\Debug\net6.0\08. Magic Sum.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\03.ExercisesArrays\08. Magic Sum\obj\Debug\net6.0\08. Magic Sum.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\03.ExercisesArrays\08. Magic Sum\obj\Debug\net6.0\08. Magic Sum.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\03.ExercisesArrays\08. Magic Sum\obj\Debug\net6.0\08. Magic Sum.dll
+C:\Users\Ivan\source\repos\03.ExercisesArrays\08. Magic Sum\obj\Debug\net6.0\ref\08. Magic Sum.dll
+C:\Users\Ivan\source\repos\03.ExercisesArrays\08. Magic Sum\obj\Debug\net6.0\08. Magic Sum.pdb
+C:\Users\Ivan\source\repos\03.ExercisesArrays\08. Magic Sum\obj\Debug\net6.0\08. Magic Sum.genruntimeconfig.cache
