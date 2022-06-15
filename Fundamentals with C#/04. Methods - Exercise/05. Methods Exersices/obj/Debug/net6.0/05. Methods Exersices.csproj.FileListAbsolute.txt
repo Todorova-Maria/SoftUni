@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\05. Methods Exersices\05. Methods Exersices\bin\Debug\net6.0\05. Methods Exersices.exe
+C:\Users\Ivan\source\repos\05. Methods Exersices\05. Methods Exersices\bin\Debug\net6.0\05. Methods Exersices.deps.json
+C:\Users\Ivan\source\repos\05. Methods Exersices\05. Methods Exersices\bin\Debug\net6.0\05. Methods Exersices.runtimeconfig.json
+C:\Users\Ivan\source\repos\05. Methods Exersices\05. Methods Exersices\bin\Debug\net6.0\05. Methods Exersices.dll
+C:\Users\Ivan\source\repos\05. Methods Exersices\05. Methods Exersices\bin\Debug\net6.0\ref\05. Methods Exersices.dll
+C:\Users\Ivan\source\repos\05. Methods Exersices\05. Methods Exersices\bin\Debug\net6.0\05. Methods Exersices.pdb
+C:\Users\Ivan\source\repos\05. Methods Exersices\05. Methods Exersices\obj\Debug\net6.0\05. Methods Exersices.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\05. Methods Exersices\05. Methods Exersices\obj\Debug\net6.0\05. Methods Exersices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\05. Methods Exersices\05. Methods Exersices\obj\Debug\net6.0\05. Methods Exersices.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\05. Methods Exersices\05. Methods Exersices\obj\Debug\net6.0\05. Methods Exersices.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\05. Methods Exersices\05. Methods Exersices\obj\Debug\net6.0\05. Methods Exersices.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\05. Methods Exersices\05. Methods Exersices\obj\Debug\net6.0\05. Methods Exersices.dll
+C:\Users\Ivan\source\repos\05. Methods Exersices\05. Methods Exersices\obj\Debug\net6.0\ref\05. Methods Exersices.dll
+C:\Users\Ivan\source\repos\05. Methods Exersices\05. Methods Exersices\obj\Debug\net6.0\05. Methods Exersices.pdb
+C:\Users\Ivan\source\repos\05. Methods Exersices\05. Methods Exersices\obj\Debug\net6.0\05. Methods Exersices.genruntimeconfig.cache
