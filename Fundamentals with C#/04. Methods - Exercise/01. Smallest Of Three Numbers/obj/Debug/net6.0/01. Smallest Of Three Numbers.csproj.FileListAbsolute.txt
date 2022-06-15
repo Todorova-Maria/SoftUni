@@ -1,0 +1,14 @@
+C:\Users\Ivan\source\repos\05. Methods Exersices\01. Smallest Of Three Numbers\bin\Debug\net6.0\01. Smallest Of Three Numbers.exe
+C:\Users\Ivan\source\repos\05. Methods Exersices\01. Smallest Of Three Numbers\bin\Debug\net6.0\01. Smallest Of Three Numbers.deps.json
+C:\Users\Ivan\source\repos\05. Methods Exersices\01. Smallest Of Three Numbers\bin\Debug\net6.0\01. Smallest Of Three Numbers.runtimeconfig.json
+C:\Users\Ivan\source\repos\05. Methods Exersices\01. Smallest Of Three Numbers\bin\Debug\net6.0\01. Smallest Of Three Numbers.dll
+C:\Users\Ivan\source\repos\05. Methods Exersices\01. Smallest Of Three Numbers\bin\Debug\net6.0\ref\01. Smallest Of Three Numbers.dll
+C:\Users\Ivan\source\repos\05. Methods Exersices\01. Smallest Of Three Numbers\bin\Debug\net6.0\01. Smallest Of Three Numbers.pdb
+C:\Users\Ivan\source\repos\05. Methods Exersices\01. Smallest Of Three Numbers\obj\Debug\net6.0\01. Smallest Of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\05. Methods Exersices\01. Smallest Of Three Numbers\obj\Debug\net6.0\01. Smallest Of Three Numbers.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\05. Methods Exersices\01. Smallest Of Three Numbers\obj\Debug\net6.0\01. Smallest Of Three Numbers.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\05. Methods Exersices\01. Smallest Of Three Numbers\obj\Debug\net6.0\01. Smallest Of Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\05. Methods Exersices\01. Smallest Of Three Numbers\obj\Debug\net6.0\01. Smallest Of Three Numbers.dll
+C:\Users\Ivan\source\repos\05. Methods Exersices\01. Smallest Of Three Numbers\obj\Debug\net6.0\ref\01. Smallest Of Three Numbers.dll
+C:\Users\Ivan\source\repos\05. Methods Exersices\01. Smallest Of Three Numbers\obj\Debug\net6.0\01. Smallest Of Three Numbers.pdb
+C:\Users\Ivan\source\repos\05. Methods Exersices\01. Smallest Of Three Numbers\obj\Debug\net6.0\01. Smallest Of Three Numbers.genruntimeconfig.cache
