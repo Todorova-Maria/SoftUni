@@ -1,0 +1,14 @@
+C:\Users\Ivan\source\repos\05. Methods Exersices\06. Middle Characters\bin\Debug\net6.0\06. Middle Characters.exe
+C:\Users\Ivan\source\repos\05. Methods Exersices\06. Middle Characters\bin\Debug\net6.0\06. Middle Characters.deps.json
+C:\Users\Ivan\source\repos\05. Methods Exersices\06. Middle Characters\bin\Debug\net6.0\06. Middle Characters.runtimeconfig.json
+C:\Users\Ivan\source\repos\05. Methods Exersices\06. Middle Characters\bin\Debug\net6.0\06. Middle Characters.dll
+C:\Users\Ivan\source\repos\05. Methods Exersices\06. Middle Characters\bin\Debug\net6.0\ref\06. Middle Characters.dll
+C:\Users\Ivan\source\repos\05. Methods Exersices\06. Middle Characters\bin\Debug\net6.0\06. Middle Characters.pdb
+C:\Users\Ivan\source\repos\05. Methods Exersices\06. Middle Characters\obj\Debug\net6.0\06. Middle Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\05. Methods Exersices\06. Middle Characters\obj\Debug\net6.0\06. Middle Characters.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\05. Methods Exersices\06. Middle Characters\obj\Debug\net6.0\06. Middle Characters.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\05. Methods Exersices\06. Middle Characters\obj\Debug\net6.0\06. Middle Characters.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\05. Methods Exersices\06. Middle Characters\obj\Debug\net6.0\06. Middle Characters.dll
+C:\Users\Ivan\source\repos\05. Methods Exersices\06. Middle Characters\obj\Debug\net6.0\ref\06. Middle Characters.dll
+C:\Users\Ivan\source\repos\05. Methods Exersices\06. Middle Characters\obj\Debug\net6.0\06. Middle Characters.pdb
+C:\Users\Ivan\source\repos\05. Methods Exersices\06. Middle Characters\obj\Debug\net6.0\06. Middle Characters.genruntimeconfig.cache
