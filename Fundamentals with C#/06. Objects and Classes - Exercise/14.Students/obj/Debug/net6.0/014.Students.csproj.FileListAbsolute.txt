@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\ClassesAndObjects\014.Students\bin\Debug\net6.0\014.Students.exe
+C:\Users\Ivan\source\repos\ClassesAndObjects\014.Students\bin\Debug\net6.0\014.Students.deps.json
+C:\Users\Ivan\source\repos\ClassesAndObjects\014.Students\bin\Debug\net6.0\014.Students.runtimeconfig.json
+C:\Users\Ivan\source\repos\ClassesAndObjects\014.Students\bin\Debug\net6.0\014.Students.dll
+C:\Users\Ivan\source\repos\ClassesAndObjects\014.Students\bin\Debug\net6.0\ref\014.Students.dll
+C:\Users\Ivan\source\repos\ClassesAndObjects\014.Students\bin\Debug\net6.0\014.Students.pdb
+C:\Users\Ivan\source\repos\ClassesAndObjects\014.Students\obj\Debug\net6.0\014.Students.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\ClassesAndObjects\014.Students\obj\Debug\net6.0\014.Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\ClassesAndObjects\014.Students\obj\Debug\net6.0\014.Students.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\ClassesAndObjects\014.Students\obj\Debug\net6.0\014.Students.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\ClassesAndObjects\014.Students\obj\Debug\net6.0\014.Students.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\ClassesAndObjects\014.Students\obj\Debug\net6.0\014.Students.dll
+C:\Users\Ivan\source\repos\ClassesAndObjects\014.Students\obj\Debug\net6.0\ref\014.Students.dll
+C:\Users\Ivan\source\repos\ClassesAndObjects\014.Students\obj\Debug\net6.0\014.Students.pdb
+C:\Users\Ivan\source\repos\ClassesAndObjects\014.Students\obj\Debug\net6.0\014.Students.genruntimeconfig.cache
