@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\03. WordFilter\bin\Debug\net6.0\03. WordFilter.exe
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\03. WordFilter\bin\Debug\net6.0\03. WordFilter.deps.json
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\03. WordFilter\bin\Debug\net6.0\03. WordFilter.runtimeconfig.json
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\03. WordFilter\bin\Debug\net6.0\03. WordFilter.dll
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\03. WordFilter\bin\Debug\net6.0\ref\03. WordFilter.dll
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\03. WordFilter\bin\Debug\net6.0\03. WordFilter.pdb
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\03. WordFilter\obj\Debug\net6.0\03. WordFilter.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\03. WordFilter\obj\Debug\net6.0\03. WordFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\03. WordFilter\obj\Debug\net6.0\03. WordFilter.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\03. WordFilter\obj\Debug\net6.0\03. WordFilter.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\03. WordFilter\obj\Debug\net6.0\03. WordFilter.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\03. WordFilter\obj\Debug\net6.0\03. WordFilter.dll
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\03. WordFilter\obj\Debug\net6.0\ref\03. WordFilter.dll
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\03. WordFilter\obj\Debug\net6.0\03. WordFilter.pdb
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\03. WordFilter\obj\Debug\net6.0\03. WordFilter.genruntimeconfig.cache
