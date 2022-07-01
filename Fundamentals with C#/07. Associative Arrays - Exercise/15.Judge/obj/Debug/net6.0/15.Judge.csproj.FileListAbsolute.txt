@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\15.Judge\obj\Debug\net6.0\15.Judge.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\15.Judge\obj\Debug\net6.0\15.Judge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\15.Judge\obj\Debug\net6.0\15.Judge.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\15.Judge\obj\Debug\net6.0\15.Judge.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\15.Judge\obj\Debug\net6.0\15.Judge.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\15.Judge\bin\Debug\net6.0\15.Judge.exe
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\15.Judge\bin\Debug\net6.0\15.Judge.deps.json
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\15.Judge\bin\Debug\net6.0\15.Judge.runtimeconfig.json
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\15.Judge\bin\Debug\net6.0\15.Judge.dll
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\15.Judge\bin\Debug\net6.0\ref\15.Judge.dll
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\15.Judge\bin\Debug\net6.0\15.Judge.pdb
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\15.Judge\obj\Debug\net6.0\15.Judge.dll
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\15.Judge\obj\Debug\net6.0\ref\15.Judge.dll
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\15.Judge\obj\Debug\net6.0\15.Judge.pdb
+C:\Users\Ivan\source\repos\Fundamentals Associative Arrays - Lab\15.Judge\obj\Debug\net6.0\15.Judge.genruntimeconfig.cache
