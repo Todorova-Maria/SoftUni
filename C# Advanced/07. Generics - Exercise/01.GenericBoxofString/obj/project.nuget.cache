@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JVXSEqANE2VM4tIOSV1JlwPB/vFD0opVbCc+VJRPd3DquVf1LaR4T6edK2ta+RRR4La7Kx3dhDtcIipK9jm+ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivan\\source\\repos\\C# Advanced\\C# Advanced - Exercises\\09. Generics - Exercise\\01.GenericBoxofString\\01.GenericBoxofString.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Exercise\01.GenericBoxofString\bin\Debug\net6.0\01.GenericBoxofString.exe
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Exercise\01.GenericBoxofString\bin\Debug\net6.0\01.GenericBoxofString.deps.json
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Exercise\01.GenericBoxofString\bin\Debug\net6.0\01.GenericBoxofString.runtimeconfig.json
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Exercise\01.GenericBoxofString\bin\Debug\net6.0\01.GenericBoxofString.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Exercise\01.GenericBoxofString\bin\Debug\net6.0\ref\01.GenericBoxofString.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Exercise\01.GenericBoxofString\bin\Debug\net6.0\01.GenericBoxofString.pdb
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Exercise\01.GenericBoxofString\obj\Debug\net6.0\01.GenericBoxofString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Exercise\01.GenericBoxofString\obj\Debug\net6.0\01.GenericBoxofString.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Exercise\01.GenericBoxofString\obj\Debug\net6.0\01.GenericBoxofString.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Exercise\01.GenericBoxofString\obj\Debug\net6.0\01.GenericBoxofString.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Exercise\01.GenericBoxofString\obj\Debug\net6.0\01.GenericBoxofString.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Exercise\01.GenericBoxofString\obj\Debug\net6.0\ref\01.GenericBoxofString.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Exercise\01.GenericBoxofString\obj\Debug\net6.0\01.GenericBoxofString.pdb
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Exercise\01.GenericBoxofString\obj\Debug\net6.0\01.GenericBoxofString.genruntimeconfig.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Exercise\01.GenericBoxofString\obj\Debug\net6.0\01.GenericBoxofString.csproj.AssemblyReference.cache
