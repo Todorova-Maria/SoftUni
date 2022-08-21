@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6e7b58b6-548d-470f-b3f5-de8fdf1cc18e": {
+      "ProjectGuid": "6e7b58b6-548d-470f-b3f5-de8fdf1cc18e",
+      "DisplayName": "05.ExtractSpecialBytes",
+      "ColorIndex": 0
+    },
+    "7e3b6aae-a331-40fc-9576-4968d01bf287": {
+      "ProjectGuid": "7e3b6aae-a331-40fc-9576-4968d01bf287",
+      "DisplayName": "05.ExtractSpecialBytes",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
