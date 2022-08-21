@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c4b425f-9fae-484f-abf0-0ca24bd269bf": {
+      "ProjectGuid": "2c4b425f-9fae-484f-abf0-0ca24bd269bf",
+      "DisplayName": "06.SplitMergeBinaryFiles",
+      "ColorIndex": 0
+    },
+    "c503cc86-ca70-46d9-815d-f16485210a4a": {
+      "ProjectGuid": "c503cc86-ca70-46d9-815d-f16485210a4a",
+      "DisplayName": "06.SplitMergeBinaryFiles",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
