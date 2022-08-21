@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\01.Odd Lines\bin\Debug\net6.0\01.OddLines.exe
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\01.Odd Lines\bin\Debug\net6.0\01.OddLines.deps.json
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\01.Odd Lines\bin\Debug\net6.0\01.OddLines.runtimeconfig.json
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\01.Odd Lines\bin\Debug\net6.0\01.OddLines.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\01.Odd Lines\bin\Debug\net6.0\ref\01.OddLines.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\01.Odd Lines\bin\Debug\net6.0\01.OddLines.pdb
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\01.Odd Lines\obj\Debug\net6.0\01.OddLines.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\01.Odd Lines\obj\Debug\net6.0\01.OddLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\01.Odd Lines\obj\Debug\net6.0\01.OddLines.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\01.Odd Lines\obj\Debug\net6.0\01.OddLines.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\01.Odd Lines\obj\Debug\net6.0\01.OddLines.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\01.Odd Lines\obj\Debug\net6.0\01.OddLines.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\01.Odd Lines\obj\Debug\net6.0\ref\01.OddLines.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\01.Odd Lines\obj\Debug\net6.0\01.OddLines.pdb
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\01.Odd Lines\obj\Debug\net6.0\01.OddLines.genruntimeconfig.cache

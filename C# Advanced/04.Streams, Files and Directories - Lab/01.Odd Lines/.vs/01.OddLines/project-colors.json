@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e4c67c2d-6701-4724-800a-2b1d4600e900": {
+      "ProjectGuid": "e4c67c2d-6701-4724-800a-2b1d4600e900",
+      "DisplayName": "01.OddLines",
+      "ColorIndex": 0
+    },
+    "8fb75405-d160-46e3-ac68-7253cf5ef349": {
+      "ProjectGuid": "8fb75405-d160-46e3-ac68-7253cf5ef349",
+      "DisplayName": "03.WordCount",
+      "ColorIndex": 1
+    },
+    "3977d996-316b-4496-ab5b-4d936047799c": {
+      "ProjectGuid": "3977d996-316b-4496-ab5b-4d936047799c",
+      "DisplayName": "EncryptDecrypt",
+      "ColorIndex": 2
+    },
+    "d8aa957e-1384-43e3-bef4-68ffed56a59b": {
+      "ProjectGuid": "d8aa957e-1384-43e3-bef4-68ffed56a59b",
+      "DisplayName": "07.FolderSize",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "f86a1735-f009-49b9-b691-17f8308a3853": {
+      "ProjectGuid": "f86a1735-f009-49b9-b691-17f8308a3853",
+      "DisplayName": "03.WordCount",
+      "ColorIndex": 4
+    },
+    "608e1e17-faf2-4a67-9247-368dc621c41c": {
+      "ProjectGuid": "608e1e17-faf2-4a67-9247-368dc621c41c",
+      "DisplayName": "04.MergeFiles",
+      "ColorIndex": 5
+    },
+    "638ccc0d-2c69-4f34-9255-c13441ae4a17": {
+      "ProjectGuid": "638ccc0d-2c69-4f34-9255-c13441ae4a17",
+      "DisplayName": "05.ExtractSpecialBytes",
+      "ColorIndex": 6
+    },
+    "ad56a777-3ad9-4909-809a-0887af38c25c": {
+      "ProjectGuid": "ad56a777-3ad9-4909-809a-0887af38c25c",
+      "DisplayName": "06.SplitMergeBinaryFiles",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

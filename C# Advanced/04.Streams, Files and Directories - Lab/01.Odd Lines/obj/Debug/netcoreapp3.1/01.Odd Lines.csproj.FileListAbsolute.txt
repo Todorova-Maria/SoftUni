@@ -1,0 +1,5 @@
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\01.Odd Lines\obj\Debug\netcoreapp3.1\01.Odd Lines.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\01.Odd Lines\obj\Debug\netcoreapp3.1\01.Odd Lines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\01.Odd Lines\obj\Debug\netcoreapp3.1\01.Odd Lines.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\01.Odd Lines\obj\Debug\netcoreapp3.1\01.Odd Lines.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\01.Odd Lines\obj\Debug\netcoreapp3.1\01.Odd Lines.csproj.CoreCompileInputs.cache
