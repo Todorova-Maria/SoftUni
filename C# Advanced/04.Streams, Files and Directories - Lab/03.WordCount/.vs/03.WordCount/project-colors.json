@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b1a3a1b2-5e69-4379-8ffb-e9d5384d3430": {
+      "ProjectGuid": "b1a3a1b2-5e69-4379-8ffb-e9d5384d3430",
+      "DisplayName": "03.WordCount",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
