@@ -1,0 +1,14 @@
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\07. Directory Operations\bin\Debug\net6.0\07.FolderSize.exe
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\07. Directory Operations\bin\Debug\net6.0\07.FolderSize.deps.json
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\07. Directory Operations\bin\Debug\net6.0\07.FolderSize.runtimeconfig.json
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\07. Directory Operations\bin\Debug\net6.0\07.FolderSize.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\07. Directory Operations\bin\Debug\net6.0\ref\07.FolderSize.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\07. Directory Operations\bin\Debug\net6.0\07.FolderSize.pdb
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\07. Directory Operations\obj\Debug\net6.0\07.FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\07. Directory Operations\obj\Debug\net6.0\07.FolderSize.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\07. Directory Operations\obj\Debug\net6.0\07.FolderSize.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\07. Directory Operations\obj\Debug\net6.0\07.FolderSize.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\07. Directory Operations\obj\Debug\net6.0\07.FolderSize.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\07. Directory Operations\obj\Debug\net6.0\ref\07.FolderSize.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\07. Directory Operations\obj\Debug\net6.0\07.FolderSize.pdb
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\07. Directory Operations\obj\Debug\net6.0\07.FolderSize.genruntimeconfig.cache
