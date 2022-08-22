@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\Encrypt-Decrypt\bin\Debug\net6.0\EncryptDecrypt.exe
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\Encrypt-Decrypt\bin\Debug\net6.0\EncryptDecrypt.deps.json
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\Encrypt-Decrypt\bin\Debug\net6.0\EncryptDecrypt.runtimeconfig.json
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\Encrypt-Decrypt\bin\Debug\net6.0\EncryptDecrypt.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\Encrypt-Decrypt\bin\Debug\net6.0\ref\EncryptDecrypt.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\Encrypt-Decrypt\bin\Debug\net6.0\EncryptDecrypt.pdb
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\Encrypt-Decrypt\obj\Debug\net6.0\EncryptDecrypt.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\Encrypt-Decrypt\obj\Debug\net6.0\EncryptDecrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\Encrypt-Decrypt\obj\Debug\net6.0\EncryptDecrypt.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\Encrypt-Decrypt\obj\Debug\net6.0\EncryptDecrypt.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\Encrypt-Decrypt\obj\Debug\net6.0\EncryptDecrypt.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\Encrypt-Decrypt\obj\Debug\net6.0\EncryptDecrypt.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\Encrypt-Decrypt\obj\Debug\net6.0\ref\EncryptDecrypt.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\Encrypt-Decrypt\obj\Debug\net6.0\EncryptDecrypt.pdb
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\05.Streams, Files and Directories - Lab\Encrypt-Decrypt\obj\Debug\net6.0\EncryptDecrypt.genruntimeconfig.cache
