@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\01.Car\bin\Debug\net6.0\01.Car.exe
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\01.Car\bin\Debug\net6.0\01.Car.deps.json
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\01.Car\bin\Debug\net6.0\01.Car.runtimeconfig.json
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\01.Car\bin\Debug\net6.0\01.Car.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\01.Car\bin\Debug\net6.0\ref\01.Car.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\01.Car\bin\Debug\net6.0\01.Car.pdb
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\01.Car\obj\Debug\net6.0\01.Car.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\01.Car\obj\Debug\net6.0\01.Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\01.Car\obj\Debug\net6.0\01.Car.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\01.Car\obj\Debug\net6.0\01.Car.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\01.Car\obj\Debug\net6.0\01.Car.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\01.Car\obj\Debug\net6.0\01.Car.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\01.Car\obj\Debug\net6.0\ref\01.Car.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\01.Car\obj\Debug\net6.0\01.Car.pdb
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\01.Car\obj\Debug\net6.0\01.Car.genruntimeconfig.cache

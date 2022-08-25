@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IqXnIWSrpm/tXVvQ24g/1WtVGuRk7rWTHcKxt9AHKT2id0sCMUSWiBTzwg6e8kab2Mw0yIvtaVcib4TSOolg9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivan\\source\\repos\\C# Advanced\\C# Advanced - Exercises\\07. Defining Classes - Lab\\01.Car\\01.CarManufacturer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
