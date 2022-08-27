@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\05.SpecialCars\bin\Debug\net6.0\05.SpecialCars.exe
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\05.SpecialCars\bin\Debug\net6.0\05.SpecialCars.deps.json
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\05.SpecialCars\bin\Debug\net6.0\05.SpecialCars.runtimeconfig.json
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\05.SpecialCars\bin\Debug\net6.0\05.SpecialCars.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\05.SpecialCars\bin\Debug\net6.0\ref\05.SpecialCars.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\05.SpecialCars\bin\Debug\net6.0\05.SpecialCars.pdb
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\05.SpecialCars\obj\Debug\net6.0\05.SpecialCars.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\05.SpecialCars\obj\Debug\net6.0\05.SpecialCars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\05.SpecialCars\obj\Debug\net6.0\05.SpecialCars.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\05.SpecialCars\obj\Debug\net6.0\05.SpecialCars.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\05.SpecialCars\obj\Debug\net6.0\05.SpecialCars.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\05.SpecialCars\obj\Debug\net6.0\05.SpecialCars.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\05.SpecialCars\obj\Debug\net6.0\ref\05.SpecialCars.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\05.SpecialCars\obj\Debug\net6.0\05.SpecialCars.pdb
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\07. Defining Classes - Lab\05.SpecialCars\obj\Debug\net6.0\05.SpecialCars.genruntimeconfig.cache
