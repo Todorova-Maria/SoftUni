@@ -1,0 +1,14 @@
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\01. Box of T\bin\Debug\netcoreapp3.1\01.BoxOfT.exe
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\01. Box of T\bin\Debug\netcoreapp3.1\01.BoxOfT.deps.json
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\01. Box of T\bin\Debug\netcoreapp3.1\01.BoxOfT.runtimeconfig.json
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\01. Box of T\bin\Debug\netcoreapp3.1\01.BoxOfT.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\01. Box of T\bin\Debug\netcoreapp3.1\01.BoxOfT.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\01. Box of T\bin\Debug\netcoreapp3.1\01.BoxOfT.pdb
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\01. Box of T\obj\Debug\netcoreapp3.1\01.BoxOfT.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\01. Box of T\obj\Debug\netcoreapp3.1\01.BoxOfT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\01. Box of T\obj\Debug\netcoreapp3.1\01.BoxOfT.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\01. Box of T\obj\Debug\netcoreapp3.1\01.BoxOfT.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\01. Box of T\obj\Debug\netcoreapp3.1\01.BoxOfT.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\01. Box of T\obj\Debug\netcoreapp3.1\01.BoxOfT.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\01. Box of T\obj\Debug\netcoreapp3.1\01.BoxOfT.pdb
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\01. Box of T\obj\Debug\netcoreapp3.1\01.BoxOfT.genruntimeconfig.cache
