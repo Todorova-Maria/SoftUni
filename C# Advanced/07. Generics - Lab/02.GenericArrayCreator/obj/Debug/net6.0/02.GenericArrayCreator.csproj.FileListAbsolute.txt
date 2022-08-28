@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\02.GenericArrayCreator\bin\Debug\net6.0\02.GenericArrayCreator.exe
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\02.GenericArrayCreator\bin\Debug\net6.0\02.GenericArrayCreator.deps.json
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\02.GenericArrayCreator\bin\Debug\net6.0\02.GenericArrayCreator.runtimeconfig.json
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\02.GenericArrayCreator\bin\Debug\net6.0\02.GenericArrayCreator.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\02.GenericArrayCreator\bin\Debug\net6.0\ref\02.GenericArrayCreator.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\02.GenericArrayCreator\bin\Debug\net6.0\02.GenericArrayCreator.pdb
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\02.GenericArrayCreator\obj\Debug\net6.0\02.GenericArrayCreator.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\02.GenericArrayCreator\obj\Debug\net6.0\02.GenericArrayCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\02.GenericArrayCreator\obj\Debug\net6.0\02.GenericArrayCreator.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\02.GenericArrayCreator\obj\Debug\net6.0\02.GenericArrayCreator.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\02.GenericArrayCreator\obj\Debug\net6.0\02.GenericArrayCreator.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\02.GenericArrayCreator\obj\Debug\net6.0\02.GenericArrayCreator.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\02.GenericArrayCreator\obj\Debug\net6.0\ref\02.GenericArrayCreator.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\02.GenericArrayCreator\obj\Debug\net6.0\02.GenericArrayCreator.pdb
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\02.GenericArrayCreator\obj\Debug\net6.0\02.GenericArrayCreator.genruntimeconfig.cache
