@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\03. GenericScale\bin\Debug\net6.0\03. GenericScale.exe
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\03. GenericScale\bin\Debug\net6.0\03. GenericScale.deps.json
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\03. GenericScale\bin\Debug\net6.0\03. GenericScale.runtimeconfig.json
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\03. GenericScale\bin\Debug\net6.0\03. GenericScale.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\03. GenericScale\bin\Debug\net6.0\ref\03. GenericScale.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\03. GenericScale\bin\Debug\net6.0\03. GenericScale.pdb
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\03. GenericScale\obj\Debug\net6.0\03. GenericScale.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\03. GenericScale\obj\Debug\net6.0\03. GenericScale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\03. GenericScale\obj\Debug\net6.0\03. GenericScale.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\03. GenericScale\obj\Debug\net6.0\03. GenericScale.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\03. GenericScale\obj\Debug\net6.0\03. GenericScale.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\03. GenericScale\obj\Debug\net6.0\03. GenericScale.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\03. GenericScale\obj\Debug\net6.0\ref\03. GenericScale.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\03. GenericScale\obj\Debug\net6.0\03. GenericScale.pdb
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\09. Generics - Lab\03. GenericScale\obj\Debug\net6.0\03. GenericScale.genruntimeconfig.cache
