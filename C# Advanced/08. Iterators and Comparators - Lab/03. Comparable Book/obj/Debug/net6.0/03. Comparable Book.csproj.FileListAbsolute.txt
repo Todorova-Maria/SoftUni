@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10. Iterators and Comparators - Lab\03. Comparable Book\bin\Debug\net6.0\03. Comparable Book.exe
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10. Iterators and Comparators - Lab\03. Comparable Book\bin\Debug\net6.0\03. Comparable Book.deps.json
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10. Iterators and Comparators - Lab\03. Comparable Book\bin\Debug\net6.0\03. Comparable Book.runtimeconfig.json
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10. Iterators and Comparators - Lab\03. Comparable Book\bin\Debug\net6.0\03. Comparable Book.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10. Iterators and Comparators - Lab\03. Comparable Book\bin\Debug\net6.0\ref\03. Comparable Book.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10. Iterators and Comparators - Lab\03. Comparable Book\bin\Debug\net6.0\03. Comparable Book.pdb
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10. Iterators and Comparators - Lab\03. Comparable Book\obj\Debug\net6.0\03. Comparable Book.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10. Iterators and Comparators - Lab\03. Comparable Book\obj\Debug\net6.0\03. Comparable Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10. Iterators and Comparators - Lab\03. Comparable Book\obj\Debug\net6.0\03. Comparable Book.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10. Iterators and Comparators - Lab\03. Comparable Book\obj\Debug\net6.0\03. Comparable Book.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10. Iterators and Comparators - Lab\03. Comparable Book\obj\Debug\net6.0\03. Comparable Book.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10. Iterators and Comparators - Lab\03. Comparable Book\obj\Debug\net6.0\03. Comparable Book.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10. Iterators and Comparators - Lab\03. Comparable Book\obj\Debug\net6.0\ref\03. Comparable Book.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10. Iterators and Comparators - Lab\03. Comparable Book\obj\Debug\net6.0\03. Comparable Book.pdb
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10. Iterators and Comparators - Lab\03. Comparable Book\obj\Debug\net6.0\03. Comparable Book.genruntimeconfig.cache
