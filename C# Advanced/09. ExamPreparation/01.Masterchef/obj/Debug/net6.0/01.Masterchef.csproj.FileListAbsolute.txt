@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\11.ExamPreparation\01.Masterchef\bin\Debug\net6.0\01.Masterchef.exe
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\11.ExamPreparation\01.Masterchef\bin\Debug\net6.0\01.Masterchef.deps.json
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\11.ExamPreparation\01.Masterchef\bin\Debug\net6.0\01.Masterchef.runtimeconfig.json
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\11.ExamPreparation\01.Masterchef\bin\Debug\net6.0\01.Masterchef.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\11.ExamPreparation\01.Masterchef\bin\Debug\net6.0\ref\01.Masterchef.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\11.ExamPreparation\01.Masterchef\bin\Debug\net6.0\01.Masterchef.pdb
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\11.ExamPreparation\01.Masterchef\obj\Debug\net6.0\01.Masterchef.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\11.ExamPreparation\01.Masterchef\obj\Debug\net6.0\01.Masterchef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\11.ExamPreparation\01.Masterchef\obj\Debug\net6.0\01.Masterchef.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\11.ExamPreparation\01.Masterchef\obj\Debug\net6.0\01.Masterchef.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\11.ExamPreparation\01.Masterchef\obj\Debug\net6.0\01.Masterchef.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\11.ExamPreparation\01.Masterchef\obj\Debug\net6.0\01.Masterchef.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\11.ExamPreparation\01.Masterchef\obj\Debug\net6.0\ref\01.Masterchef.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\11.ExamPreparation\01.Masterchef\obj\Debug\net6.0\01.Masterchef.pdb
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\11.ExamPreparation\01.Masterchef\obj\Debug\net6.0\01.Masterchef.genruntimeconfig.cache
