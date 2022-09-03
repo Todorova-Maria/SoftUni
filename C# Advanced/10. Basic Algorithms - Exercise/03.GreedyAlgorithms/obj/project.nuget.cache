@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iJeQhh0pIGF0mzwx3IHIAw9miHH4Gx59+VGWVQcVmu6KEwPJgtTXJTvPqI5Y+mrVrL5fyiL5MMQ7P1UUBvwrRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivan\\source\\repos\\C# Advanced\\C# Advanced - Exercises\\12. Basic Algorithms - Exercise\\03.GreedyAlgorithms\\03.SumOfCoins.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
