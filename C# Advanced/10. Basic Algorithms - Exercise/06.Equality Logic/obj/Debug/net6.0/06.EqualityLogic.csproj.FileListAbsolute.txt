@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10.Iterators and Comparators - Exercise\06.Equality Logic\bin\Debug\net6.0\06.EqualityLogic.exe
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10.Iterators and Comparators - Exercise\06.Equality Logic\bin\Debug\net6.0\06.EqualityLogic.deps.json
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10.Iterators and Comparators - Exercise\06.Equality Logic\bin\Debug\net6.0\06.EqualityLogic.runtimeconfig.json
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10.Iterators and Comparators - Exercise\06.Equality Logic\bin\Debug\net6.0\06.EqualityLogic.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10.Iterators and Comparators - Exercise\06.Equality Logic\bin\Debug\net6.0\ref\06.EqualityLogic.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10.Iterators and Comparators - Exercise\06.Equality Logic\bin\Debug\net6.0\06.EqualityLogic.pdb
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10.Iterators and Comparators - Exercise\06.Equality Logic\obj\Debug\net6.0\06.EqualityLogic.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10.Iterators and Comparators - Exercise\06.Equality Logic\obj\Debug\net6.0\06.EqualityLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10.Iterators and Comparators - Exercise\06.Equality Logic\obj\Debug\net6.0\06.EqualityLogic.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10.Iterators and Comparators - Exercise\06.Equality Logic\obj\Debug\net6.0\06.EqualityLogic.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10.Iterators and Comparators - Exercise\06.Equality Logic\obj\Debug\net6.0\06.EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10.Iterators and Comparators - Exercise\06.Equality Logic\obj\Debug\net6.0\06.EqualityLogic.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10.Iterators and Comparators - Exercise\06.Equality Logic\obj\Debug\net6.0\ref\06.EqualityLogic.dll
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10.Iterators and Comparators - Exercise\06.Equality Logic\obj\Debug\net6.0\06.EqualityLogic.pdb
+C:\Users\Ivan\source\repos\C# Advanced\C# Advanced - Exercises\10.Iterators and Comparators - Exercise\06.Equality Logic\obj\Debug\net6.0\06.EqualityLogic.genruntimeconfig.cache
