@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\C# OOP\01.  Inheritance - Lab\05.Stack of Strings\obj\Debug\net6.0\05.Stack of Strings.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\C# OOP\01.  Inheritance - Lab\05.Stack of Strings\obj\Debug\net6.0\05.Stack of Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\C# OOP\01.  Inheritance - Lab\05.Stack of Strings\obj\Debug\net6.0\05.Stack of Strings.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\C# OOP\01.  Inheritance - Lab\05.Stack of Strings\obj\Debug\net6.0\05.Stack of Strings.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\C# OOP\01.  Inheritance - Lab\05.Stack of Strings\obj\Debug\net6.0\05.Stack of Strings.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\C# OOP\01.  Inheritance - Lab\05.Stack of Strings\bin\Debug\net6.0\05.Stack of Strings.exe
+C:\Users\Ivan\source\repos\C# OOP\01.  Inheritance - Lab\05.Stack of Strings\bin\Debug\net6.0\05.Stack of Strings.deps.json
+C:\Users\Ivan\source\repos\C# OOP\01.  Inheritance - Lab\05.Stack of Strings\bin\Debug\net6.0\05.Stack of Strings.runtimeconfig.json
+C:\Users\Ivan\source\repos\C# OOP\01.  Inheritance - Lab\05.Stack of Strings\bin\Debug\net6.0\05.Stack of Strings.dll
+C:\Users\Ivan\source\repos\C# OOP\01.  Inheritance - Lab\05.Stack of Strings\bin\Debug\net6.0\ref\05.Stack of Strings.dll
+C:\Users\Ivan\source\repos\C# OOP\01.  Inheritance - Lab\05.Stack of Strings\bin\Debug\net6.0\05.Stack of Strings.pdb
+C:\Users\Ivan\source\repos\C# OOP\01.  Inheritance - Lab\05.Stack of Strings\obj\Debug\net6.0\05.Stack of Strings.dll
+C:\Users\Ivan\source\repos\C# OOP\01.  Inheritance - Lab\05.Stack of Strings\obj\Debug\net6.0\ref\05.Stack of Strings.dll
+C:\Users\Ivan\source\repos\C# OOP\01.  Inheritance - Lab\05.Stack of Strings\obj\Debug\net6.0\05.Stack of Strings.pdb
+C:\Users\Ivan\source\repos\C# OOP\01.  Inheritance - Lab\05.Stack of Strings\obj\Debug\net6.0\05.Stack of Strings.genruntimeconfig.cache
