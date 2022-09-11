@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZglYOd4nYI8sXmYHA7tWB1pS9Asg+Z2LtkHTGdHHOlhcqmNCTbwiX8R5BWHp4conxXAsDQY1ofdUYr3QiyEvLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivan\\source\\repos\\C# OOP\\01. Inheritance - Exercise\\03.PlayersAndMonsters\\03.PlayersAndMonsters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
