@@ -1,0 +1,14 @@
+C:\Users\Ivan\source\repos\C# OOP\01. Inheritance - Exercise\02. Zoo\bin\Debug\netcoreapp3.1\02. Zoo.exe
+C:\Users\Ivan\source\repos\C# OOP\01. Inheritance - Exercise\02. Zoo\bin\Debug\netcoreapp3.1\02. Zoo.deps.json
+C:\Users\Ivan\source\repos\C# OOP\01. Inheritance - Exercise\02. Zoo\bin\Debug\netcoreapp3.1\02. Zoo.runtimeconfig.json
+C:\Users\Ivan\source\repos\C# OOP\01. Inheritance - Exercise\02. Zoo\bin\Debug\netcoreapp3.1\02. Zoo.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\C# OOP\01. Inheritance - Exercise\02. Zoo\bin\Debug\netcoreapp3.1\02. Zoo.dll
+C:\Users\Ivan\source\repos\C# OOP\01. Inheritance - Exercise\02. Zoo\bin\Debug\netcoreapp3.1\02. Zoo.pdb
+C:\Users\Ivan\source\repos\C# OOP\01. Inheritance - Exercise\02. Zoo\obj\Debug\netcoreapp3.1\02. Zoo.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\C# OOP\01. Inheritance - Exercise\02. Zoo\obj\Debug\netcoreapp3.1\02. Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\C# OOP\01. Inheritance - Exercise\02. Zoo\obj\Debug\netcoreapp3.1\02. Zoo.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\C# OOP\01. Inheritance - Exercise\02. Zoo\obj\Debug\netcoreapp3.1\02. Zoo.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\C# OOP\01. Inheritance - Exercise\02. Zoo\obj\Debug\netcoreapp3.1\02. Zoo.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\C# OOP\01. Inheritance - Exercise\02. Zoo\obj\Debug\netcoreapp3.1\02. Zoo.dll
+C:\Users\Ivan\source\repos\C# OOP\01. Inheritance - Exercise\02. Zoo\obj\Debug\netcoreapp3.1\02. Zoo.pdb
+C:\Users\Ivan\source\repos\C# OOP\01. Inheritance - Exercise\02. Zoo\obj\Debug\netcoreapp3.1\02. Zoo.genruntimeconfig.cache
