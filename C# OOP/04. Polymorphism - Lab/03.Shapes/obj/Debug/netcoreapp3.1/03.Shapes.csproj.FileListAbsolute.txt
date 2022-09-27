@@ -1,0 +1,14 @@
+C:\Users\Ivan\source\repos\C# OOP\04. Polymorphism - Lab\03.Shapes\bin\Debug\netcoreapp3.1\03.Shapes.exe
+C:\Users\Ivan\source\repos\C# OOP\04. Polymorphism - Lab\03.Shapes\bin\Debug\netcoreapp3.1\03.Shapes.deps.json
+C:\Users\Ivan\source\repos\C# OOP\04. Polymorphism - Lab\03.Shapes\bin\Debug\netcoreapp3.1\03.Shapes.runtimeconfig.json
+C:\Users\Ivan\source\repos\C# OOP\04. Polymorphism - Lab\03.Shapes\bin\Debug\netcoreapp3.1\03.Shapes.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\C# OOP\04. Polymorphism - Lab\03.Shapes\bin\Debug\netcoreapp3.1\03.Shapes.dll
+C:\Users\Ivan\source\repos\C# OOP\04. Polymorphism - Lab\03.Shapes\bin\Debug\netcoreapp3.1\03.Shapes.pdb
+C:\Users\Ivan\source\repos\C# OOP\04. Polymorphism - Lab\03.Shapes\obj\Debug\netcoreapp3.1\03.Shapes.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\C# OOP\04. Polymorphism - Lab\03.Shapes\obj\Debug\netcoreapp3.1\03.Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\C# OOP\04. Polymorphism - Lab\03.Shapes\obj\Debug\netcoreapp3.1\03.Shapes.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\C# OOP\04. Polymorphism - Lab\03.Shapes\obj\Debug\netcoreapp3.1\03.Shapes.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\C# OOP\04. Polymorphism - Lab\03.Shapes\obj\Debug\netcoreapp3.1\03.Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\C# OOP\04. Polymorphism - Lab\03.Shapes\obj\Debug\netcoreapp3.1\03.Shapes.dll
+C:\Users\Ivan\source\repos\C# OOP\04. Polymorphism - Lab\03.Shapes\obj\Debug\netcoreapp3.1\03.Shapes.pdb
+C:\Users\Ivan\source\repos\C# OOP\04. Polymorphism - Lab\03.Shapes\obj\Debug\netcoreapp3.1\03.Shapes.genruntimeconfig.cache
