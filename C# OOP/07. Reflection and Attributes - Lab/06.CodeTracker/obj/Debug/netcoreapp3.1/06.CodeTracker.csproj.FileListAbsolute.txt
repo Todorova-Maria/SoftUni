@@ -1,0 +1,14 @@
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\06.CodeTracker\bin\Debug\netcoreapp3.1\06.CodeTracker.exe
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\06.CodeTracker\bin\Debug\netcoreapp3.1\06.CodeTracker.deps.json
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\06.CodeTracker\bin\Debug\netcoreapp3.1\06.CodeTracker.runtimeconfig.json
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\06.CodeTracker\bin\Debug\netcoreapp3.1\06.CodeTracker.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\06.CodeTracker\bin\Debug\netcoreapp3.1\06.CodeTracker.dll
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\06.CodeTracker\bin\Debug\netcoreapp3.1\06.CodeTracker.pdb
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\06.CodeTracker\obj\Debug\netcoreapp3.1\06.CodeTracker.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\06.CodeTracker\obj\Debug\netcoreapp3.1\06.CodeTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\06.CodeTracker\obj\Debug\netcoreapp3.1\06.CodeTracker.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\06.CodeTracker\obj\Debug\netcoreapp3.1\06.CodeTracker.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\06.CodeTracker\obj\Debug\netcoreapp3.1\06.CodeTracker.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\06.CodeTracker\obj\Debug\netcoreapp3.1\06.CodeTracker.dll
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\06.CodeTracker\obj\Debug\netcoreapp3.1\06.CodeTracker.pdb
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\06.CodeTracker\obj\Debug\netcoreapp3.1\06.CodeTracker.genruntimeconfig.cache
