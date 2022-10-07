@@ -1,0 +1,14 @@
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\03.MissionPrivateImpossible.exe
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\03.MissionPrivateImpossible.deps.json
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\03.MissionPrivateImpossible.runtimeconfig.json
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\03.MissionPrivateImpossible.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\03.MissionPrivateImpossible.dll
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\03.MissionPrivateImpossible\bin\Debug\netcoreapp3.1\03.MissionPrivateImpossible.pdb
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.dll
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.pdb
+C:\Users\Ivan\source\repos\C# OOP\07. Reflection and Attributes - Lab\03.MissionPrivateImpossible\obj\Debug\netcoreapp3.1\03.MissionPrivateImpossible.genruntimeconfig.cache
