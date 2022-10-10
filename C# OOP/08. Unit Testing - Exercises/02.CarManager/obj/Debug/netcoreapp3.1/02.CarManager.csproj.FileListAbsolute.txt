@@ -1,0 +1,14 @@
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Exercises\03.CarManager\bin\Debug\netcoreapp3.1\02.CarManager.exe
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Exercises\03.CarManager\bin\Debug\netcoreapp3.1\02.CarManager.deps.json
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Exercises\03.CarManager\bin\Debug\netcoreapp3.1\02.CarManager.runtimeconfig.json
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Exercises\03.CarManager\bin\Debug\netcoreapp3.1\02.CarManager.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Exercises\03.CarManager\bin\Debug\netcoreapp3.1\02.CarManager.dll
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Exercises\03.CarManager\bin\Debug\netcoreapp3.1\02.CarManager.pdb
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Exercises\03.CarManager\obj\Debug\netcoreapp3.1\02.CarManager.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Exercises\03.CarManager\obj\Debug\netcoreapp3.1\02.CarManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Exercises\03.CarManager\obj\Debug\netcoreapp3.1\02.CarManager.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Exercises\03.CarManager\obj\Debug\netcoreapp3.1\02.CarManager.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Exercises\03.CarManager\obj\Debug\netcoreapp3.1\02.CarManager.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Exercises\03.CarManager\obj\Debug\netcoreapp3.1\02.CarManager.dll
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Exercises\03.CarManager\obj\Debug\netcoreapp3.1\02.CarManager.pdb
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Exercises\03.CarManager\obj\Debug\netcoreapp3.1\02.CarManager.genruntimeconfig.cache
