@@ -1,0 +1,14 @@
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Lab\01.TestAxe\bin\Debug\netcoreapp3.1\01.TestAxe.exe
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Lab\01.TestAxe\bin\Debug\netcoreapp3.1\01.TestAxe.deps.json
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Lab\01.TestAxe\bin\Debug\netcoreapp3.1\01.TestAxe.runtimeconfig.json
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Lab\01.TestAxe\bin\Debug\netcoreapp3.1\01.TestAxe.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Lab\01.TestAxe\bin\Debug\netcoreapp3.1\01.TestAxe.dll
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Lab\01.TestAxe\bin\Debug\netcoreapp3.1\01.TestAxe.pdb
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Lab\01.TestAxe\obj\Debug\netcoreapp3.1\01.TestAxe.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Lab\01.TestAxe\obj\Debug\netcoreapp3.1\01.TestAxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Lab\01.TestAxe\obj\Debug\netcoreapp3.1\01.TestAxe.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Lab\01.TestAxe\obj\Debug\netcoreapp3.1\01.TestAxe.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Lab\01.TestAxe\obj\Debug\netcoreapp3.1\01.TestAxe.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Lab\01.TestAxe\obj\Debug\netcoreapp3.1\01.TestAxe.dll
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Lab\01.TestAxe\obj\Debug\netcoreapp3.1\01.TestAxe.pdb
+C:\Users\Ivan\source\repos\C# OOP\08. Unit Testing - Lab\01.TestAxe\obj\Debug\netcoreapp3.1\01.TestAxe.genruntimeconfig.cache
