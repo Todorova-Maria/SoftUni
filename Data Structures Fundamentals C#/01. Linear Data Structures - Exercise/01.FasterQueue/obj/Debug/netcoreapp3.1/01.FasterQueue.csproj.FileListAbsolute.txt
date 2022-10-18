@@ -1,0 +1,14 @@
+C:\Users\Ivan\source\repos\Data Structures Fundamentals\01. Linear Data Structures - Exercise\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.exe
+C:\Users\Ivan\source\repos\Data Structures Fundamentals\01. Linear Data Structures - Exercise\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.deps.json
+C:\Users\Ivan\source\repos\Data Structures Fundamentals\01. Linear Data Structures - Exercise\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.runtimeconfig.json
+C:\Users\Ivan\source\repos\Data Structures Fundamentals\01. Linear Data Structures - Exercise\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\Data Structures Fundamentals\01. Linear Data Structures - Exercise\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.dll
+C:\Users\Ivan\source\repos\Data Structures Fundamentals\01. Linear Data Structures - Exercise\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.pdb
+C:\Users\Ivan\source\repos\Data Structures Fundamentals\01. Linear Data Structures - Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Data Structures Fundamentals\01. Linear Data Structures - Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\Data Structures Fundamentals\01. Linear Data Structures - Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Data Structures Fundamentals\01. Linear Data Structures - Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Data Structures Fundamentals\01. Linear Data Structures - Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Data Structures Fundamentals\01. Linear Data Structures - Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.dll
+C:\Users\Ivan\source\repos\Data Structures Fundamentals\01. Linear Data Structures - Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.pdb
+C:\Users\Ivan\source\repos\Data Structures Fundamentals\01. Linear Data Structures - Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.genruntimeconfig.cache
