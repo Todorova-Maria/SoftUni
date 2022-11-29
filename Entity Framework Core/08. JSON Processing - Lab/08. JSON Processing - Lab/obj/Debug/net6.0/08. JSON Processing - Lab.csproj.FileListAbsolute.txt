@@ -1,0 +1,17 @@
+C:\Users\Ivan\source\repos\Entity Framework Core\08. JSON Processing - Lab\08. JSON Processing - Lab\bin\Debug\net6.0\08. JSON Processing - Lab.exe
+C:\Users\Ivan\source\repos\Entity Framework Core\08. JSON Processing - Lab\08. JSON Processing - Lab\bin\Debug\net6.0\08. JSON Processing - Lab.deps.json
+C:\Users\Ivan\source\repos\Entity Framework Core\08. JSON Processing - Lab\08. JSON Processing - Lab\bin\Debug\net6.0\08. JSON Processing - Lab.runtimeconfig.json
+C:\Users\Ivan\source\repos\Entity Framework Core\08. JSON Processing - Lab\08. JSON Processing - Lab\bin\Debug\net6.0\08. JSON Processing - Lab.dll
+C:\Users\Ivan\source\repos\Entity Framework Core\08. JSON Processing - Lab\08. JSON Processing - Lab\bin\Debug\net6.0\08. JSON Processing - Lab.pdb
+C:\Users\Ivan\source\repos\Entity Framework Core\08. JSON Processing - Lab\08. JSON Processing - Lab\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Ivan\source\repos\Entity Framework Core\08. JSON Processing - Lab\08. JSON Processing - Lab\obj\Debug\net6.0\08. JSON Processing - Lab.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Entity Framework Core\08. JSON Processing - Lab\08. JSON Processing - Lab\obj\Debug\net6.0\08. JSON Processing - Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\Entity Framework Core\08. JSON Processing - Lab\08. JSON Processing - Lab\obj\Debug\net6.0\08. JSON Processing - Lab.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Entity Framework Core\08. JSON Processing - Lab\08. JSON Processing - Lab\obj\Debug\net6.0\08. JSON Processing - Lab.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Entity Framework Core\08. JSON Processing - Lab\08. JSON Processing - Lab\obj\Debug\net6.0\08. JSON Processing - Lab.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Entity Framework Core\08. JSON Processing - Lab\08. JSON Processing - Lab\obj\Debug\net6.0\08. JSON Processing - Lab.csproj.CopyComplete
+C:\Users\Ivan\source\repos\Entity Framework Core\08. JSON Processing - Lab\08. JSON Processing - Lab\obj\Debug\net6.0\08. JSON Processing - Lab.dll
+C:\Users\Ivan\source\repos\Entity Framework Core\08. JSON Processing - Lab\08. JSON Processing - Lab\obj\Debug\net6.0\refint\08. JSON Processing - Lab.dll
+C:\Users\Ivan\source\repos\Entity Framework Core\08. JSON Processing - Lab\08. JSON Processing - Lab\obj\Debug\net6.0\08. JSON Processing - Lab.pdb
+C:\Users\Ivan\source\repos\Entity Framework Core\08. JSON Processing - Lab\08. JSON Processing - Lab\obj\Debug\net6.0\08. JSON Processing - Lab.genruntimeconfig.cache
+C:\Users\Ivan\source\repos\Entity Framework Core\08. JSON Processing - Lab\08. JSON Processing - Lab\obj\Debug\net6.0\ref\08. JSON Processing - Lab.dll
