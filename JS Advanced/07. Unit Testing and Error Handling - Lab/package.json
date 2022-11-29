@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  },
+  "name": "07.-unit-testing-and-error-handling---lab",
+  "version": "1.0.0",
+  "main": "01. Sub Sum.js",
+  "scripts": {
+    "test": "mocha ./*test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
