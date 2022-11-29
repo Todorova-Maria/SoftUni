@@ -1,0 +1,17 @@
+{
+  "name": "05.-js-applications-architecture-and-testing-exercise-resources",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0",
+    "playwright-chromium": "^1.26.1"
+  }
+}
